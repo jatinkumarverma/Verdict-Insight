@@ -1,0 +1,6 @@
+PyMuPDF 
+transformers 
+torch 
+datasets 
+rouge_score
+streamlit
